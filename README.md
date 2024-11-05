@@ -11,3 +11,6 @@ The Primary Source of Data used here a Sales Data .csv and close source data.
 - Sql  for querying of Data
 - Power BI for visualization of Data
 - GitHub for Portfolio Buiding
+### Excel Files
+-Sales Exploration: Initial data exploration using pivot tables.
+-Sales Metrics: Calculations for average sales per product and total revenue by region.
