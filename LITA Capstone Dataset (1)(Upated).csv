@@ -1,0 +1,14 @@
+Product, Total Sales ,,Region , Sum of Sales ,,Region , Sum of Sales ,,Product, Average of Sales ,,Region, Sum of Revenue ,,Product , Unit Product 
+Gloves," 12,369 ",,Gloves," 12,369 ",,Jan," 6,448 ",,Gloves, 8 ,,East," 485,925 ",,Gloves," 34,635 "
+Hat," 15,929 ",,Hat," 15,929 ",,Feb," 9,930 ",,Hat, 8 ,,North," 387,000 ",,Hat," 42,325 "
+Jacket," 5,452 ",,Jacket," 5,452 ",,Mar," 8,971 ",,Jacket, 4 ,,South," 927,820 ",,Jacket," 62,025 "
+Shirt," 12,388 ",,Shirt," 12,388 ",,Apr," 3,457 ",,Shirt, 8 ,,West," 300,345 ",,Shirt," 54,520 "
+Shoes," 14,402 ",,Shoes," 14,402 ",,May," 2,482 ",,Shoes, 7 ,,Grand Total," 2,101,090 ",,Shoes," 69,540 "
+Socks," 7,921 ",,Socks," 7,921 ",,Jun," 9,904 ",,Socks, 5 ,,,,,Socks," 27,215 "
+Grand Total," 68,461 ",,Grand Total," 68,461 ",,Jul," 8,420 ",,Grand Total, 7 ,,,,,Grand Total," 290,260 "
+,,,,,,Aug," 5,478 ",,,,,,,,,
+,,,,,,Sep," 3,472 ",,,,,,,,,
+,,,,,,Oct," 4,464 ",,,,,,,,,
+,,,,,,Nov," 2,970 ",,,,,,,,,
+,,,,,,Dec," 2,465 ",,,,,,,,,
+,,,,,,Grand Total," 68,461 ",,,,,,,,,
