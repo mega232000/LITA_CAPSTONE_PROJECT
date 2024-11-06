@@ -20,4 +20,12 @@ The Primary Source of Data used here a Sales Data .csv and close source data.
 
 ### Power BI Dashboards
 - Sales Overview: Dashboard visualizing sales overview, top-performing products, and regional breakdowns
-  
+
+  ### Data Files
+ - Sales_data: Sales data used for analysis.
+### Instructions Given;
+1.  Clone the repository.
+2. Load the sales data into your SQL Server environment.
+3. Run SQL queries to extract insights.
+4. Open Excel files to view calculations and pivot tables.
+5. Open Power BI dashboard files to visualize insights.
