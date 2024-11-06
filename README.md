@@ -98,4 +98,8 @@ HAVING SUM(CASE
 WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31' 
 THEN 1 ELSE 0 END) = 0
 ```
+### visualization 
 
+![sales data Excel](https://github.com/user-attachments/assets/161b484d-2ce3-46e5-88dc-1e43d4314e3f)
+![sales data powe bi](https://github.com/user-attachments/assets/2b428bf2-11bf-4b76-b9b8-5951bfcc662e)
+![power bi image](https://github.com/user-attachments/assets/2844c8e9-82d2-4d2f-9d4d-85604f2bb16f)
