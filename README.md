@@ -1,5 +1,26 @@
 # LITA_CAPSTONE_PROJECT
-### Project Title:  Sales Data Analysis
+
+[Project Overview](#project-overview)
+
+[ Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Excel Files](#excel-files)
+
+[Sql Queries](#sql-queries)
+
+[Power BI Dashboards](#power-bi-dashboards)
+
+[Data Files](#data-files)
+
+[Instructions Given](#instructions-given)
+
+[Sql Queries Documentation](#sql-queries-documentation)
+
+[Data visualization ](#data-visualization)
+
+### Project Title :  Sales Data Analysis
 
 ### Project Overview
 This data analysis projects uses Excel, SQL, and Power BI aims at generating insight from sales data, By analysing and visualizing sales data to gain insights into customer behavior, sales trends, and product performance. The analysis will help identify areas of improvement, optimize sales strategiesand making the best business decisions.
@@ -23,6 +44,7 @@ The Primary Source of Data used here a Sales Data .csv and close source data.
 
   ### Data Files
  - Sales_data: Sales data used for analysis.
+ - 
 ### Instructions Given;
 1.  Clone the repository.
 2. Load the sales data into your SQL Server environment.
@@ -98,7 +120,7 @@ HAVING SUM(CASE
 WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31' 
 THEN 1 ELSE 0 END) = 0
 ```
-### visualization 
+### Data visualization 
 
 ![sales data Excel](https://github.com/user-attachments/assets/161b484d-2ce3-46e5-88dc-1e43d4314e3f)
 ![sales data powe bi](https://github.com/user-attachments/assets/2b428bf2-11bf-4b76-b9b8-5951bfcc662e)
