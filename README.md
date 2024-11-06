@@ -14,3 +14,10 @@ The Primary Source of Data used here a Sales Data .csv and close source data.
 ### Excel Files
 - Sales Exploration: Initial data exploration using pivot tables.
 - Sales Metrics: Calculations for average sales per product and total revenue by region.
+
+  ### Sql Queries
+  - Sales_queries: Queries for total sales by product category, number of sales transactions by region, highest-selling product, total revenue per product, monthly sales totals, top 5 customers, and percentage of total sales by region.
+
+### Power BI Dashboards
+- Sales Overview: Dashboard visualizing sales overview, top-performing products, and regional breakdowns
+  
